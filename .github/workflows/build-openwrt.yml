@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: r4s
+name: friendlyarm_nanopi-r4s
 permissions:
   contents: write
 on:
