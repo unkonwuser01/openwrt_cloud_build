@@ -9,4 +9,4 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 #src-git oldpackages http://git.openwrt.org/packages.git
 #src-link custom /usr/src/openwrt/custom-feed
 #src-git passwall https://github.com/xiaorouji/openwrt-passwall
-#src-git smpackage https://github.com/kenzok8/small-package
+src-git smpackage https://github.com/kenzok8/small-package
